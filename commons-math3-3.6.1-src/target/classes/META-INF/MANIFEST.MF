@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: Petrichor
+Build-Jdk: 17.0.4.1
+Implementation-URL: http://commons.apache.org/proper/commons-math/
+Created-By: Maven Integration for Eclipse
+Implementation-Build: ${git.revision}; 2022-10-16 09:42:02+0000
+Implementation-Title: Apache Commons Math
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Implementation-Version: 3.6.1
+Specification-Title: Apache Commons Math
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 3.6.1
+X-Compile-Source-JDK: 1.5
+X-Compile-Target-JDK: 1.5
+
